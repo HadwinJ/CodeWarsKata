@@ -5,6 +5,8 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnflattenAListEasy", "UnflattenAListEasy\UnflattenAListEasy.csproj", "{EDCF1385-F8F6-41AB-8866-6E13BF9BC89A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnflattenAListEasy.Tests", "UnflattenAListEasy.Tests\UnflattenAListEasy.Tests.csproj", "{28F2E11F-6DA9-4CE3-BFBA-F379C691A001}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{EDCF1385-F8F6-41AB-8866-6E13BF9BC89A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EDCF1385-F8F6-41AB-8866-6E13BF9BC89A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EDCF1385-F8F6-41AB-8866-6E13BF9BC89A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28F2E11F-6DA9-4CE3-BFBA-F379C691A001}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28F2E11F-6DA9-4CE3-BFBA-F379C691A001}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28F2E11F-6DA9-4CE3-BFBA-F379C691A001}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28F2E11F-6DA9-4CE3-BFBA-F379C691A001}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
