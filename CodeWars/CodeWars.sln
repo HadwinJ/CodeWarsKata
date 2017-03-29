@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnflattenAListEasy", "Unfla
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnflattenAListEasy.Tests", "UnflattenAListEasy.Tests\UnflattenAListEasy.Tests.csproj", "{28F2E11F-6DA9-4CE3-BFBA-F379C691A001}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeakNumbers", "WeakNumbers\WeakNumbers.csproj", "{D711AF53-AC4A-494D-B33F-95A73BDBBADB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeakNumbers.Tests", "WeakNumbers.Tests\WeakNumbers.Tests.csproj", "{623BD8CC-A422-4F96-BA41-AC470CA8DE3E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{28F2E11F-6DA9-4CE3-BFBA-F379C691A001}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{28F2E11F-6DA9-4CE3-BFBA-F379C691A001}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{28F2E11F-6DA9-4CE3-BFBA-F379C691A001}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D711AF53-AC4A-494D-B33F-95A73BDBBADB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D711AF53-AC4A-494D-B33F-95A73BDBBADB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D711AF53-AC4A-494D-B33F-95A73BDBBADB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D711AF53-AC4A-494D-B33F-95A73BDBBADB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{623BD8CC-A422-4F96-BA41-AC470CA8DE3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{623BD8CC-A422-4F96-BA41-AC470CA8DE3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{623BD8CC-A422-4F96-BA41-AC470CA8DE3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{623BD8CC-A422-4F96-BA41-AC470CA8DE3E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
